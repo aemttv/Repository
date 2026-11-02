@@ -26,7 +26,7 @@ Here are some of the projects and technical work I've worked on:
 | Category | Description |
 |---|---|
 | [QA Portfolio](./QA/) | Software testing documentation, test cases, bug reports, and UX evaluation |
-| Web Development | Web applications and development projects |
+| [Web Development](./WebDev/) | Web applications and development projects |
 
 ## 💼 Experience
 

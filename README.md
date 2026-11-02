@@ -44,6 +44,10 @@ Here are some of the projects and technical work I've worked on:
 
 Institut Informatika Indonesia (IKADO), Surabaya
 
+**Machine Learning Cohort at Bangkit Academy 2023 Batch 2**
+
+Bangkit Academy (online)
+
 ## 🌱 Currently Learning
 
 - Software Testing Methodologies

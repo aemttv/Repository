@@ -1,5 +1,3 @@
----
-
 ### File 2: `Software-Quality-Assurance/MJA-HR-PAYROLL/test-strategy.md`
 
 ```markdown

@@ -47,8 +47,9 @@ Because payroll directly impacts legal labor compliance, employee trust, and ope
 MJA-HR-PAYROLL/
 ├── README.md                  # Project overview, test metrics, and findings
 ├── test-strategy.md           # Strategic approach, risk matrix, and test methodologies
-├── attendance-test-cases.md   # Functional & negative attendance test specifications
-├── payroll-test-cases.md      # Financial formula, calculation, and exclusion suites
+└── Manual-Test-Suite/         # Execution evidence and error reproduction artifacts
+    ├── attendance-test-cases.md   # Functional & negative attendance test specifications
+    └── payroll-test-cases.md      # Financial formula, calculation, and exclusion suites
 └── Screenshots/               # Execution evidence and error reproduction artifacts
-    ├── attendance/
+    ├── Attendance/
     └── Payroll/

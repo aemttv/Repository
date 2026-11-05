@@ -88,5 +88,5 @@ The application excluded production and attendance records for the selected date
 
 **Payroll after exclusion**
 
-![Payroll before exclusion](../Screenshots/attendance/PAYTC-002-after-exclusion.png)
+![Payroll after exclusion](../Screenshots/attendance/PAYTC-002-after-exclusion.png)
 ---

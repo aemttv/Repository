@@ -44,7 +44,7 @@ All figures should use the same period and applicable payroll rules.
 
 **Payroll Calculation Breakdown**
 
-![PHP Payroll Calculation Breakdown](Screenshots/attendance/PAYTC-001-calculation.png)
+![PHP Payroll Calculation Breakdown](Screenshots/Payroll/PAYTC-001-calculation.png)
 
 
 ---

@@ -39,11 +39,11 @@
 
 **Before updating attendance**
 
-![Attendance Before](Screenshots/Attendance/ATC-001-before.png)
+![Attendance Before](../Screenshots/Attendance/ATC-001-before.png)
 
 **After updating attendance**
 
-![Attendance After](Screenshots/Attendance/ATC-001-after.png)
+![Attendance After](../Screenshots/Attendance/ATC-001-after.png)
 
 ---
 
@@ -82,6 +82,6 @@
 
 **Validation Error Message**
 
-![Validation Error Message](Screenshots/Attendance/ATC-002-error-msg.png)
+![Validation Error Message](../Screenshots/Attendance/ATC-002-error-msg.png)
 
 ---

@@ -1,4 +1,3 @@
-```markdown
 # Test Strategy — MJA-HR-PAYROLL
 
 ## 1. Strategy Objectives

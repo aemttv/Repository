@@ -11,7 +11,7 @@
 | Test type | Functional / Data integrity |
 | Priority | High |
 | Preconditions | User is logged in with permission (Unit's PIC) to manage attendance. The employee is assigned to the selected unit. An attendance record already exists for that employee, date, and unit. |
-| Test data | Employee: `TEST-001`; Unit: `UNIT-HARIAN`; Date: `2026-11-05`; Existing status: `Hadir`; New status: `Izin`. |
+| Test data | Employee: `Mustika Lega Maryadi / Sarah Zulaika`; Unit: `UNIT-HARIAN`; Date: `5-11-2026`; Existing status: `Hadir`; New status: `Izin` or `Sakit`. |
 
 **Test steps**
 1. Log in using an authorized account.

@@ -44,7 +44,7 @@ All figures should use the same period and applicable payroll rules.
 
 **Payroll Calculation Breakdown**
 
-![PHP Payroll Calculation Breakdown](Screenshots/Payroll/PAYTC-001-calculation.png)
+![PHP Payroll Calculation Breakdown](MJA-HR-Payroll/Screenshots/Payroll/PAYTC-001-calculation.png)
 
 
 ---
@@ -84,10 +84,10 @@ The application excluded production and attendance records for the selected date
 
 **Payroll before exclusion**
 
-![Payroll before exclusion](Screenshots/Payroll/PAYTC-002-before-exclusion.png)
+![Payroll before exclusion](MJA-HR-Payroll/Screenshots/Payroll/PAYTC-002-before-exclusion.png)
 
 **Payroll after exclusion**
 
-![Payroll after exclusion](Screenshots/Payroll/PAYTC-002-after-exclusion.png)
+![Payroll after exclusion](MJA-HR-Payroll/Screenshots/Payroll/PAYTC-002-after-exclusion.png)
 
 ---

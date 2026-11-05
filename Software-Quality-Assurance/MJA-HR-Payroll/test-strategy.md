@@ -1,5 +1,7 @@
 ---
 
+### File 2: `Software-Quality-Assurance/MJA-HR-PAYROLL/test-strategy.md`
+
 ```markdown
 # Test Strategy — MJA-HR-PAYROLL
 
@@ -69,3 +71,5 @@ $$\text{Net Salary Borongan} = \sum (\text{Bayaran Item}) + \text{Allowances} - 
 * 0 open Critical or High severity defects.
 * All mathematical formulas confirmed with 100% calculation parity between manual independent models and system outputs.
 * All identified medium defects documented with steps to reproduce and assigned to the development board.
+
+```

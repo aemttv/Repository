@@ -84,10 +84,10 @@ The application excluded production and attendance records for the selected date
 
 **Payroll before exclusion**
 
-![Payroll before exclusion](Software-Quality-Assurance/Test-Cases/MJA-HR-PAYROLL/Screenshots/Payroll/PAYTC-002-before-exclusion.png)
+![Payroll before exclusion](Screenshots/Payroll/PAYTC-002-before-exclusion.png)
 
 **Payroll after exclusion**
 
-![Payroll after exclusion](Software-Quality-Assurance/Test-Cases/MJA-HR-PAYROLL/Screenshots/Payroll/PAYTC-002-after-exclusion.png)
+![Payroll after exclusion](Screenshots/Payroll/PAYTC-002-after-exclusion.png)
 
 ---

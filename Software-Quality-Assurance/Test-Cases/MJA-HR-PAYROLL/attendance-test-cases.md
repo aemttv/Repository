@@ -19,19 +19,19 @@
 3. Select the date containing the existing attendance record and choose the unit.
 4. Locate and select(tickbox) of the employee.
 5. Choose `Status` at the bulk action bar below.
-6. Change the attendance status from `Hadir` to `Izin`.
+6. Change the attendance status from `Hadir` to `Izin/Sakit`.
 6. Save the changes.
 7. Reopen or refresh the attendance page (Absensi) and verify the record.
 8. If database access is available, verify the number of records for the same employee, date, and unit.
 
 **Expected result**
-- The employee's existing attendance record is updated to `Izin`.
+- The employee's existing attendance record is updated to `Izin/Sakit`.
 - No additional attendance row is created for the same employee, date, and unit.
 - The updated value remains visible after refreshing the page.
 
 **Actual result:** To be recorded during execution.  
 - The application updates the previous record.
-- The attendance status changed from `Hadir` to `Izin`
+- The attendance status changed from `Hadir` to `Izin/Sakit`
 - No duplicate entry of attendance record saved in the database. 
 **Status:** Pass
 
@@ -39,11 +39,11 @@
 
 **Before updating attendance**
 
-![Attendance Before](../Screenshots/attendance/ATC-001-before.png)
+![Attendance Before](Screenshots/attendance/ATC-001-before.png)
 
 **After updating attendance**
 
-![Attendance After](../Screenshots/attendance/ATC-001-after.png)
+![Attendance After](Screenshots/attendance/ATC-001-after.png)
 
 ---
 
@@ -82,6 +82,6 @@
 
 **Validation Error Message**
 
-![Validation Error Message](../Screenshots/attendance/ATC-002-error-msg.png)
+![Validation Error Message](Screenshots/attendance/ATC-002-error-msg.png)
 
 ---

@@ -9,7 +9,7 @@
 |---|---|
 | Test scenario | Verify that changing an employee's attendance updates the existing record rather than creating a second record. |
 | Test type | Functional / Data integrity |
-| Priority | High |
+| Priority | Medium |
 | Preconditions | User is logged in with permission (Unit's PIC) to manage attendance. The employee is assigned to the selected unit. An attendance record already exists for that employee, date, and unit. |
 | Test data | Employee: `Mustika Lega Maryadi / Sarah Zulaika`; Unit: `UNIT-HARIAN`; Date: `5-11-2026`; Existing status: `Hadir`; New status: `Izin` or `Sakit`. |
 

@@ -38,6 +38,14 @@ Here are some of the projects and technical work I've worked on:
 - Tested data synchronization between mobile services and the web portal.
 - Documented bugs with reproduction steps and supporting evidence.
 
+**Software Engineering — Resolv Group**
+
+- Developed web-based applications based on project requirements.
+- Designed and implemented user interfaces (UI) with a focus on usability and responsiveness.
+- Performed functional testing to verify application features and identify issues.
+- Identified, documented, and fixed UI inconsistencies and functional bugs.
+- Collaborated on development tasks to improve application functionality and user experience.
+
 ## 🎓 Education
 
 **Bachelor's Degree in Informatics Engineering**

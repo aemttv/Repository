@@ -74,7 +74,7 @@ Screenshots, network payload snippets, console logs, or recorded recordings.
 * **Module:** Attendance (`Absensi`) — Bulk Action Form
 * **Severity:** Medium (S3)
 * **Priority:** P2
-* **Found in Test Case:** `ATC-002`
+* **Found in Test Case:** `[ATC-002](https://github.com/aemttv/Repository/blob/main/Software-Quality-Assurance/MJA-HR-Payroll/Manual-Test-Suite/attendance-test-cases.md)`
 * **Reporter:** Sani
 * **Target Audience:** Frontend Team, Backend API Team
 
